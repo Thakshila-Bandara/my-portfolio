@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import me from '../../assets/me.jpg'
+import me from '../../assets/me-new.png'
 import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
@@ -16,7 +16,7 @@ const Header = () => {
         <h5 className="text-light">Software Engineering Undergraduate</h5>
         <CTA/>
         <HeaderSocials/>
-        
+
         <div className="me">
 
           <img src={me} alt='me'/>
