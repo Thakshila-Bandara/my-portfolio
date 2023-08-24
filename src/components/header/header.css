@@ -88,7 +88,7 @@ header{
 
 /* Media queries for small devices(Mobiles) */
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 600px) {
 
     header{
 
@@ -98,5 +98,10 @@ header{
     .header__socials, .scroll__down{
 
         display: none;
+    }
+
+    .me > img{
+
+        margin-top: 2.5rem;
     }
 }
