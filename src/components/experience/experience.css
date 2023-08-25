@@ -32,4 +32,33 @@
 
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    row-gap: 2rem;
+}
+
+.experience__details{
+
+    display: flex;
+    gap: 2rem;
+}
+
+.experience__details-icon{
+
+    margin-top: 6px;
+    color: var(--color-primary);
+}
+
+/* Media queries for medium devices(Tablets) */
+
+@media screen and (max-width: 1024px) {
+
+    
+
+}
+
+/* Media queries for small devices(Mobiles) */
+
+@media screen and (max-width: 600px) {
+
+    
 }
