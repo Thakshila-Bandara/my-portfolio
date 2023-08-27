@@ -32,3 +32,10 @@
     margin: 1.2rem 0 .5rem;
 }
 
+.portfolio__item-cta{
+
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    gap: 1rem;
+}
