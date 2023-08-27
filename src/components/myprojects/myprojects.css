@@ -39,3 +39,26 @@
     margin-bottom: 1rem;
     gap: 1rem;
 }
+
+/* Media queries for medium devices(Tablets) */
+
+@media screen and (max-width: 1024px) {
+
+    .portfolio__container{
+
+       grid-template-columns: 1fr 1fr; /*50% from left 50% from right  */
+       gap: 1.2rem;
+    }
+
+}
+
+/* Media queries for small devices(Mobiles) */
+
+@media screen and (max-width: 600px) {
+
+    .portfolio__container{
+
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
