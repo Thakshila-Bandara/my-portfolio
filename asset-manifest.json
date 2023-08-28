@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.863903b1.css",
+    "main.js": "/my-portfolio/static/js/main.cc973cce.js",
+    "static/media/img2.png": "/my-portfolio/static/media/img2.140e843a03bbedec6547.png",
+    "static/media/img3.png": "/my-portfolio/static/media/img3.c60ea6feffb480f499d4.png",
+    "static/media/img4.png": "/my-portfolio/static/media/img4.8296a23cb34cc4eb02fc.png",
+    "static/media/me-new.png": "/my-portfolio/static/media/me-new.fdeca3aeb3ad3a354762.png",
+    "static/media/Thakshila-Bandara_CV.pdf": "/my-portfolio/static/media/Thakshila-Bandara_CV.09a0c262c5faee8cd56b.pdf",
+    "static/media/img5.jpg": "/my-portfolio/static/media/img5.305359fd5bd1a6a77eac.jpg",
+    "static/media/my-image2.jpg": "/my-portfolio/static/media/my-image2.50d512e51786346454f4.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.863903b1.css.map": "/my-portfolio/static/css/main.863903b1.css.map",
+    "main.cc973cce.js.map": "/my-portfolio/static/js/main.cc973cce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863903b1.css",
+    "static/js/main.cc973cce.js"
+  ]
+}
