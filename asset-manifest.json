@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.863903b1.css",
-    "main.js": "/my-portfolio/static/js/main.09db4ed1.js",
+    "main.js": "/my-portfolio/static/js/main.a6da82a8.js",
     "static/media/img2.png": "/my-portfolio/static/media/img2.140e843a03bbedec6547.png",
     "static/media/img3.png": "/my-portfolio/static/media/img3.c60ea6feffb480f499d4.png",
     "static/media/img4.png": "/my-portfolio/static/media/img4.8296a23cb34cc4eb02fc.png",
-    "static/media/me-new.png": "/my-portfolio/static/media/me-new.fdeca3aeb3ad3a354762.png",
-    "static/media/Thakshila-Bandara_CV.pdf": "/my-portfolio/static/media/Thakshila-Bandara_CV.09a0c262c5faee8cd56b.pdf",
+    "static/media/me-new.png": "/my-portfolio/static/media/me-new.477e98ab4193053c57ce.png",
+    "static/media/Thakshila-Bandara_CV.pdf": "/my-portfolio/static/media/Thakshila-Bandara_CV.cf4229abdde0142af34e.pdf",
     "static/media/img5.jpg": "/my-portfolio/static/media/img5.305359fd5bd1a6a77eac.jpg",
     "static/media/my-image2.jpg": "/my-portfolio/static/media/my-image2.50d512e51786346454f4.jpg",
     "index.html": "/my-portfolio/index.html",
     "main.863903b1.css.map": "/my-portfolio/static/css/main.863903b1.css.map",
-    "main.09db4ed1.js.map": "/my-portfolio/static/js/main.09db4ed1.js.map"
+    "main.a6da82a8.js.map": "/my-portfolio/static/js/main.a6da82a8.js.map"
   },
   "entrypoints": [
     "static/css/main.863903b1.css",
-    "static/js/main.09db4ed1.js"
+    "static/js/main.a6da82a8.js"
   ]
 }
