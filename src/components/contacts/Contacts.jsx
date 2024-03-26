@@ -2,19 +2,19 @@ import React from 'react'
 import './contacts.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import { useRef } from 'react';
-import emailjs from '@emailjs/browser';
+// import emailjs from '@emailjs/browser';
 
 const Contacts = () => {
 
   const form = useRef()
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+  // const sendEmail = (e) => {
+  //   e.preventDefault();
 
-    emailjs.sendForm('service_kpzxgqz', 'template_kk9ipl8', form.current, 'uKELRhBOpArKOozDJ')
-    e.target.reset()
+  //   emailjs.sendForm('service_kpzxgqz', 'template_kk9ipl8', form.current, 'uKELRhBOpArKOozDJ')
+  //   e.target.reset()
     
-  }
+  // }
 
   return (
     <section id='contacts'>
@@ -33,7 +33,7 @@ const Contacts = () => {
           </article>
         </div>
 
-        <form ref={form} onSubmit={sendEmail}>
+        <form ref={form}>
 
          <input type="text" name="name" placeholder="Your Full Name" required />  {/* client side validation */}
          <input type="email" name='email' placeholder='Your Email' required /> 
